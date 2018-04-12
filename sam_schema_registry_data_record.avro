@@ -1,0 +1,11 @@
+{
+    "type":"record",
+    "name":"analysis_stream_data",
+    "fields":[
+        {"name":"SENTIMENT","type":["string"],"default":null},
+        {"name":"HISTORY_ID","type":["string"],"default":null},
+        {"name":"DATA","type":["string"],"default":null},
+        {"name":"CLASSIFICATIONS","type":["string"],"default":null}
+    ]
+}
+
